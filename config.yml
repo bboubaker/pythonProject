@@ -1,0 +1,9 @@
+# coding: utf-8
+persons:
+  - firstName: "Bruce"
+    name: "Wayne"
+    hero: "Batman"
+
+  - firstName: "Fruce"
+    name: "WAYNE"
+    hero: "Fatman"
